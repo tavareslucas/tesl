@@ -125,4 +125,11 @@
   - O [JavaScript best practices](https://www.w3.org/wiki/JavaScript_best_practices) é um guia de boas práticas de JavaScript disponibilizado pela W3C, que é uma organização de padronização da World Wide Web.
 - Indique um guia de boas práticas de codificação em frameworks de linguagem de programação:
   - O [Vue Style Guide](https://vuejs.org/v2/style-guide/) é um guia de boas práticas para Vue.js, servindo como referência para evitar erros e codificações fora de padrão.
+ 
+## Atividade 8
+- Explique o são métodos ágeis e qual a sua importância no processo de desenvolvimento de softwares ?
+  - Métodos ágeis são metodologias de desenvolvimento criadas a partir da metodologia ágil, sendo essa uma filosofia originada do manifesto ágil, criado como um solução aos problemas e prejuízos encontrados nas práticas de engenharia de software extremamente caras e complexas da década de 90, como o modelo cascata, por exemplo. A partir desse manifesto, surgiram vários métodos que seguem seus valores e princípios, voltados em sua maioria para projetos menores, altamente adaptáveis à mudanças e com entrega contínua de software funcional. Alguns exemplos desses métodos são: Scrum; XP (Extreme Programming); KANBAN; e TDD.
+- Procure um projeto que utilize kanban e coloque o link para a utilização desse método:
+  - O projeto Vue.js utiliza o kanban, gerenciando o andamento das tasks definidas no roadmap como parte da release, como pode ser visto [aqui](https://github.com/vuejs/vue/projects/8)
+- 
   
